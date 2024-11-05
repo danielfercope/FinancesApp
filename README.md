@@ -12,9 +12,6 @@ O app possibilita o cadastramento de transações financeiras e atualização im
 - Listagem de transações
 ![adicionar](./project_n2_mobile/assets/lista1.png)
 
-- Listagem de transações
-![adicionar](./project_n2_mobile/assets/lista2.png)
-
 - Processo de edição
 ![adicionar](./project_n2_mobile/assets/edicao.png)
 
