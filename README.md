@@ -4,6 +4,7 @@ Finances app é um aplicativo desenvolvido com o intuido de possibilitar o contr
 O app possibilita o cadastramento de transações financeiras e atualização imediata do saldo do usuário.
 
 - Tela inicial
+
 ![adicionar](./project_n2_mobile/assets/tela_inicial.png)
 
 - Cadastramento de transação
