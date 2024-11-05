@@ -8,15 +8,19 @@ O app possibilita o cadastramento de transações financeiras e atualização im
 ![adicionar](./project_n2_mobile/assets/tela_inicial.png)
 
 - Cadastramento de transação
+- 
 ![adicionar](./project_n2_mobile/assets/cadastramento.png)
 
 - Listagem de transações
+  
 ![adicionar](./project_n2_mobile/assets/lista1.png)
 
 - Processo de edição
+  
 ![adicionar](./project_n2_mobile/assets/edicao.png)
 
 - Paleta utilizada
+  
 ![adicionar](./project_n2_mobile/assets/paleta.png)
 
 ## Como instalar
