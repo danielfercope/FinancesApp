@@ -1,6 +1,6 @@
 # N2 - Desenvolvimento Mobile 📱
 
-Finances app é um aplicativo desenvolvido com o intuido de possibilitar o controle financeiro pelo usuário. 
+Finances app é um aplicativo desenvolvido com o intuido de possibilitar o controle financeiro total pelo usuário. 
 O app possibilita o cadastramento de transações financeiras e atualização imediata do saldo do usuário.
 
 - Tela inicial
