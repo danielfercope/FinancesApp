@@ -1,62 +1,16 @@
-# N2 - Desenvolvimento Mobile 📱
+# project_n2_mobile
 
-Finances app é um aplicativo desenvolvido com o intuido de possibilitar o controle financeiro total pelo usuário. 
-O app possibilita o cadastramento de transações financeiras e atualização imediata do saldo do usuário.
+A new Flutter project.
 
-- Tela inicial
+## Getting Started
 
-![adicionar](./project_n2_mobile/assets/tela_inicial.png)
+This project is a starting point for a Flutter application.
 
-- Cadastramento de transação
-  
-![adicionar](./project_n2_mobile/assets/cadastramento.png)
+A few resources to get you started if this is your first Flutter project:
 
-- Listagem de transações
-  
-![adicionar](./project_n2_mobile/assets/lista1.png)
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-- Processo de edição
-  
-![adicionar](./project_n2_mobile/assets/edicao.png)
-
-- Paleta utilizada
-  
-![adicionar](./project_n2_mobile/assets/paleta.png)
-
-## Como instalar
-
-- Clone o repositório e entre no diretório raiz
-
-```consle
-git clone https://github.com/danielfercope/ControlFinanceFlutter.git
-```
-
-Versão do **Flutter** e **Dart**
-`Flutter 3.24.0 • channel stable • https://github.com/flutter/flutter.git
-Framework • revision 80c2e84975
-Engine • revision b8800d88be
-Tools • Dart 3.5.0 • DevTools 2.37.2`
-
-
-- Inicialize seu emulador ou utilize a versão web
-
-- Utilizando o emulador:
-
-```console
-emulator -avd {virtual_device_name}
-```
-
-- Execute o comando flutter devices e selecione o emulador
-
-```console
-flutter devices
-```
-
-- Se o emulador estiver rodando, selecione Android SDK.
-  Ou selecione a versão web.
-
-- Execute o comando flutter run
-
-```console
-flutter run
-```
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
